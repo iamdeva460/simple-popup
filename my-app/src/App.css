@@ -1,0 +1,24 @@
+input[type=text]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 1px;
+  border: 1px solid wheat;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.button2{
+  background-color:#f31414;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 15px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.9s;
+  
+}
+.button2:hover{
+  opacity: 1;
+}
